@@ -18,6 +18,8 @@
 ### Learning
 <img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667" style="padding-right:10px;" />
 
+<br>
+
 ---
 
 <img align="left" alt="thatreligionmajor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thatreligionmajor&show_icons=true&hide_border=true&theme=transparent" />
