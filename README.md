@@ -2,7 +2,7 @@
 
 ### Developer, Banjo Player, and D&D Nerd 
 ---
-<p> I'm a full stack developer who is passionate about using programming knowledge to make life easier for everyday people and improving my skillset by learning different languages. </p>
+<p> I'm a full stack developer who is passionate about both using programming knowledge to make life easier for everyday people and improving my skillset by learning different languages. </p>
 
 ---
 ### Technologies
