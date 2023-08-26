@@ -1,6 +1,8 @@
 <h1 style="text-align: center;">Theresa Barkasy</h1>
 
-### I'm a full stack developer who is passionate about using programming knowledge to make life easier for everyday people and improving my skillset by learning different languages. When I'm not coding, you can find me playing banjo on the front porch, being the best cat-mom there has ever been, or spending the evening in a heated session of D&D.
+### Developer, Cat-Mom, Banjo Player, and D&D Nerd 
+---
+<p> I'm a full stack developer who is passionate about using programming knowledge to make life easier for everyday people and improving my skillset by learning different languages. </p>
 
 ---
 ### Technologies
