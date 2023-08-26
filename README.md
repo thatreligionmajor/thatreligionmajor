@@ -1,5 +1,5 @@
 <h1>Theresa Barkasy</h1>
-![90s Anime Coding Gif](https://i.pinimg.com/originals/48/f0/85/48f08597f57fff39e981cf8ee92d53d2.gif)
+<img alt="90s Anime Coding Gif" src="https://i.pinimg.com/originals/48/f0/85/48f08597f57fff39e981cf8ee92d53d2.gif" />
 
 ### Developer, Banjo Player, and D&D Nerd 
 ---
