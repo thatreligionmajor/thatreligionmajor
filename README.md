@@ -10,7 +10,7 @@
 ---
 
 <img align="left" alt="thatreligionmajor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thatreligionmajor&show_icons=true&hide_border=true&theme=transparent" />
-<img align="left" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&layout=donut&theme=transparent" />
+<img align="left" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&layout=donut&hide_border=true&theme=transparent" />
 <!--
 **thatreligionmajor/thatreligionmajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
