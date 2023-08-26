@@ -1,4 +1,4 @@
-<h1>Theresa Barkasy</h1>
+<div><h1>Theresa Barkasy</h1></div>
 
 ## I'm a full stack developer who is passionate about using programming knowledge to make life easier for everyday people and improving my skillset by learning different languages. When I'm not coding, you can find me playing banjo on the front porch, being the best cat-mom there has ever been, or spending the evening in a heated session of D&D.
 
