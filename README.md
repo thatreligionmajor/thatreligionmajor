@@ -3,7 +3,9 @@
 
 ### Developer, Banjo Player, and D&D Nerd 
 ---
-<p> I'm a full stack developer who is passionate about both using programming knowledge to make life easier for everyday people and improving my skillset by learning different languages. </p>
+<p> As a software engineer with a deep appreciation for the humanities and religious studies, I bring a unique perspective to the tech industry. My journey began with a fascination for understanding the intricate narratives of cultures and belief systems. Today, I use my technical skills to create solutions that make a positive impact on our world, especially in the realm of environmental conservation. </p>
+<p> Beyond coding, I'm passionate about the intersection of technology and social change. I believe in the power of data-driven insights to inform sustainable practices, and I actively seek opportunities to work with organizations dedicated to environmental causes. </p>
+<p> My ability to bridge the gap between the technical and the humanistic allows me to communicate complex ideas effectively, both with fellow engineers and stakeholders from diverse backgrounds. I thrive in collaborative environments where creativity and innovation are encouraged. </p>
 
 ---
 ### Technologies
