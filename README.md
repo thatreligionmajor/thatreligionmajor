@@ -50,7 +50,7 @@
   <img align="left" alt="thatreligionmajor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thatreligionmajor&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 <p align="center">
-<img align="left" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&layout=donut&hide_border=true&theme=transparent" />
+<img align="right" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&layout=donut&hide_border=true&theme=transparent" />
 </p>
 <!--
 **thatreligionmajor/thatreligionmajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
