@@ -8,25 +8,25 @@
 <p> My ability to bridge the gap between the technical and the humanistic allows me to communicate complex ideas effectively, both with fellow engineers and stakeholders from diverse backgrounds. I thrive in collaborative environments where creativity and innovation are encouraged. </p>
 
 ---
-### Connect with Me
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
----
 ### Technologies
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <br>
-  
+
+---  
 ### Learning
-<img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" style="padding-right:10px;" />
 
 <br>
+
+---
+### Connect with Me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theresa-barkasy/)
 
 ---
 
