@@ -8,6 +8,13 @@
 <p> My ability to bridge the gap between the technical and the humanistic allows me to communicate complex ideas effectively, both with fellow engineers and stakeholders from diverse backgrounds. I thrive in collaborative environments where creativity and innovation are encouraged. </p>
 
 ---
+
+* 👩‍💻 I'm currently working on [Worst Con Ever](https://github.com/thatreligionmajor/Worst-Convention-Ever)
+* 🪴 I'm currently reading about [green web development](https://github.com/Green-Software-Foundation/learn)
+* 🧠 I'm currently learning about [TypeScript](https://www.udemy.com/course/learn-typescript/)
+* ✨ Fun fact: I once had my photography displayed at [The Ringling](https://www.ringling.org/visit/venues/museum-art/)
+
+---
 ### Technologies
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
