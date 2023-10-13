@@ -30,7 +30,7 @@
 <img align="left"  alt="Flask" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flask-Dark.svg" style="padding-right:10px;" />
 <img align="left"  alt="Postman" width="26" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" />
 <img align="left"  alt="Figma" width="26" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;" />
-<img align="left"  alt="Photoshop" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
+<img align="left"  alt="Photoshop" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Photoshop.svg" style="padding-right:10px;" />
 
 <br>
 
