@@ -36,7 +36,8 @@
 
 ---  
 ### Learning
-<img align="left" alt="Python" width="26px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" style="padding-right:10px;" />
+<img align="left"  alt="PHP" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" style="padding-right:10px;" />
 
 <br>
 
