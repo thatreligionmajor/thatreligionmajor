@@ -72,11 +72,11 @@
 -->
 
 <div align="center" dir="auto" <img style="max-width: 100%;">
-<img align="left" class="img" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&theme=tokyonight&layout=compact" height="220"/>
+<img max-width:50% class="img" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&theme=tokyonight&layout=compact" height="220"/>
 &nbsp;
 &nbsp;
 &nbsp;
-<img class="img" alt="thatreligionmajor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thatreligionmajor&show_icons=true&theme=tokyonight" height="220" />
+<img max-width:50% class="img" alt="thatreligionmajor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thatreligionmajor&show_icons=true&theme=tokyonight" height="220" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:92AD9F,100:5E8054&height=130&section=footer" />
