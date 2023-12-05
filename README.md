@@ -1,12 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:92AD9F,100:5E8054&height=200&section=header&text=Theresa%20Barkasy&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Developer,%20Banjo%20Player,%20and%20Dungeons%20and%20Dragons%20Nerd%20&descAlignY=50" />
-<img alt="90s Anime Coding Gif" src="https://i.pinimg.com/originals/48/f0/85/48f08597f57fff39e981cf8ee92d53d2.gif" />
-
-### Developer, Banjo Player, and D&D Nerd 
----
+<table>
+  <tbody>
+  <tr>
+<td>
+<img align="left" width=100% alt="90s Anime Coding Gif" src="https://i.pinimg.com/originals/48/f0/85/48f08597f57fff39e981cf8ee92d53d2.gif" />
+</td>
+<td>
 <p> As a software engineer with a deep appreciation for the humanities and religious studies, I bring a unique perspective to the tech industry. My journey began with a fascination for understanding the intricate narratives of cultures and belief systems. Today, I use my technical skills to create solutions that make a positive impact on our world, especially in the realm of environmental conservation. </p>
 <p> Beyond coding, I'm passionate about the intersection of technology and social change. I believe in the power of data-driven insights to inform sustainable practices, and I actively seek opportunities to work with organizations dedicated to environmental causes. </p>
 <p> My ability to bridge the gap between the technical and the humanistic allows me to communicate complex ideas effectively, both with fellow engineers and stakeholders from diverse backgrounds. I thrive in collaborative environments where creativity and innovation are encouraged. </p>
-
+</td> 
+  </tr>
+  </tbody>
+</table>
 ---
 
 * 👩‍💻 I'm currently working on [Worst Con Ever](https://github.com/thatreligionmajor/Worst-Convention-Ever)
@@ -58,14 +64,14 @@
 -->
 
 <div align="center" dir="auto" <img style="max-width: 100%;">
-<img class="img" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&theme=tokyonight&layout=compact" />
+<img class="img" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&theme=tokyonight&layout=compact" height="220"/>
 &nbsp;
 &nbsp;
 &nbsp;
-<img class="img" alt="thatreligionmajor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thatreligionmajor&show_icons=true&theme=tokyonight" />
+<img class="img" alt="thatreligionmajor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thatreligionmajor&show_icons=true&theme=tokyonight" height="220" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:92AD9F,100:5E8054&height=200&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:92AD9F,100:5E8054&height=130&section=footer" />
 
 <!--
 **thatreligionmajor/thatreligionmajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
