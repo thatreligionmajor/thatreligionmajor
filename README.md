@@ -13,6 +13,7 @@
   </tr>
   </tbody>
 </table>
+
 ---
 
 * 👩‍💻 I'm currently working on [Worst Con Ever](https://github.com/thatreligionmajor/Worst-Convention-Ever)
@@ -21,7 +22,7 @@
 * ✨ Fun fact: I once had my photography displayed at [The Ringling](https://www.ringling.org/visit/venues/museum-art/)
 
 ---
-### Technologies
+<h3 align="center">Technologies</h3> 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left"  alt="Bootstrap" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bootstrap.svg" style="padding-right:10px;" />
@@ -41,7 +42,7 @@
 <br>
 
 ---  
-### Learning
+<h3 align="center">Learning</h3>
 <img align="left"  alt="PHP" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Dark.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" style="padding-right:10px;" />
 
