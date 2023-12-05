@@ -72,7 +72,7 @@
 -->
 
 <div align="center" dir="auto" <img style="max-width: 100%;">
-<img class="img" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&theme=tokyonight&layout=compact" height="220"/>
+<img align="left" class="img" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&theme=tokyonight&layout=compact" height="220"/>
 &nbsp;
 &nbsp;
 &nbsp;
