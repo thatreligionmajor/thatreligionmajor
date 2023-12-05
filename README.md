@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:92AD9F,100:5E8054&height=200&section=header&text=Theresa%20Barkasy&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Developer,%20Banjo%20Player,%20and%20Dungeons%20and%20Dragons%20Nerd%20&descAlignY=50" />
+
 <table>
   <tbody>
   <tr>
