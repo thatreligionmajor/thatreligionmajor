@@ -48,13 +48,22 @@
 [<img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" />](https://www.goodreads.com/user/show/33274897-theresa-barkasy)
 
 ---
-
+<!--
 <p align="center">
   <img align="center" alt="thatreligionmajor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thatreligionmajor&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 <p align="center">
 <img align="center" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&layout=donut&hide_border=true&theme=transparent" />
 </p>
+-->
+
+<div align="center" dir="auto" <img style="max-width: 100%;">
+<img class="img" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&theme=react&layout=compact" />
+&nbsp;
+&nbsp;
+&nbsp;
+<img class="img" alt="thatreligionmajor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thatreligionmajor&show_icons=true&theme=react" />
+</div>
 <!--
 **thatreligionmajor/thatreligionmajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
