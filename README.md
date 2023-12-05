@@ -5,7 +5,7 @@
 <td>
 <img align="left" width=100% alt="90s Anime Coding Gif" src="https://i.pinimg.com/originals/48/f0/85/48f08597f57fff39e981cf8ee92d53d2.gif" />
 </td>
-<td>
+<td width="50%">
 <p> As a software engineer with a deep appreciation for the humanities and religious studies, I bring a unique perspective to the tech industry. My journey began with a fascination for understanding the intricate narratives of cultures and belief systems. Today, I use my technical skills to create solutions that make a positive impact on our world, especially in the realm of environmental conservation. </p>
 <p> Beyond coding, I'm passionate about the intersection of technology and social change. I believe in the power of data-driven insights to inform sustainable practices, and I actively seek opportunities to work with organizations dedicated to environmental causes. </p>
 <p> My ability to bridge the gap between the technical and the humanistic allows me to communicate complex ideas effectively, both with fellow engineers and stakeholders from diverse backgrounds. I thrive in collaborative environments where creativity and innovation are encouraged. </p>
