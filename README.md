@@ -1,4 +1,4 @@
-<h1>Theresa Barkasy</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:92AD9F,100:5E8054&height=200&section=header&text=Theresa%20Barkasy&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Developer,%20Banjo%20Player,%20and%20Dungeons%20and%20Dragons%20Nerd%20&descAlignY=50" />
 <img alt="90s Anime Coding Gif" src="https://i.pinimg.com/originals/48/f0/85/48f08597f57fff39e981cf8ee92d53d2.gif" />
 
 ### Developer, Banjo Player, and D&D Nerd 
@@ -64,6 +64,9 @@
 &nbsp;
 <img class="img" alt="thatreligionmajor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thatreligionmajor&show_icons=true&theme=tokyonight" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:92AD9F,100:5E8054&height=200&section=footer" />
+
 <!--
 **thatreligionmajor/thatreligionmajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
