@@ -58,11 +58,11 @@
 -->
 
 <div align="center" dir="auto" <img style="max-width: 100%;">
-<img class="img" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&theme=react&layout=compact" />
+<img class="img" alt="thatreligionmajor's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatreligionmajor&theme=tokyonight&layout=compact" />
 &nbsp;
 &nbsp;
 &nbsp;
-<img class="img" alt="thatreligionmajor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thatreligionmajor&show_icons=true&theme=react" />
+<img class="img" alt="thatreligionmajor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thatreligionmajor&show_icons=true&theme=tokyonight" />
 </div>
 <!--
 **thatreligionmajor/thatreligionmajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
