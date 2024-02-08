@@ -32,6 +32,9 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left"  alt="Jest" width="26" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<!-- AWS
+<img align="left"  alt="AWS" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" style="padding-right:10px;" />
+-->
 <!-- SQL -->
 <img align="left"  alt="Node.js" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" style="padding-right:10px;" />
 <img align="left"  alt="PHP" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Dark.svg" style="padding-right:10px;" />
