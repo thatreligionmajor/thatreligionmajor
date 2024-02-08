@@ -35,7 +35,7 @@
 <!-- SQL -->
 <img align="left"  alt="Node.js" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" style="padding-right:10px;" />
 <img align="left"  alt="PHP" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg" style="padding-right:10px;" />
 <img align="left"  alt="Flask" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flask-Dark.svg" style="padding-right:10px;" />
 <img align="left"  alt="Postman" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" style="padding-right:10px;" />
 <img align="left"  alt="Figma" width="26" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;" />
