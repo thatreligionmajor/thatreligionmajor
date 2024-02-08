@@ -19,7 +19,7 @@
 
 * 👩‍💻 I'm currently working on [Worst Con Ever](https://github.com/thatreligionmajor/Worst-Convention-Ever)
 * 🪴 I'm currently reading about [green web development](https://github.com/Green-Software-Foundation/learn)
-* 🧠 I'm currently learning about [TypeScript](https://www.udemy.com/course/learn-typescript/)
+* 🧠 I'm currently learning about [Amazon Web Services](https://www.pluralsight.com/cloud-guru/courses/aws-certified-cloud-practitioner-clf-c02)
 * ✨ Fun fact: I once had my photography displayed at [The Ringling](https://www.ringling.org/visit/venues/museum-art/)
 
 ---
