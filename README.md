@@ -39,6 +39,9 @@
   <img align="left"  alt="Node.js" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" style="padding-right:10px;" />
   <img align="left"  alt="Flask" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flask-Dark.svg" style="padding-right:10px;" />
   <br/>
+<h4>Database Management</h4>
+  <img align="left"  alt="SQL" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png?size=48" style="padding-right:10px;" />
+  <br/>
 <h4>Testing Frameworks</h4>
   <img align="left"  alt="Jest" width="26" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="padding-right:10px;" />
   <br/>
