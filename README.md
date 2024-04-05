@@ -61,6 +61,9 @@
 ---  
 <h3>Learning</h3> 
   <h4>Cloud Services</h4>
+    <img align="left"  alt="AWS" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" style="padding-right:10px;" /> Microsoft Azure 
+    <br />
+    <br />
     <img align="left"  alt="AWS" width="26" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" style="padding-right:10px;" /> Amazon Web Services
     <!-- <img align="left" alt="TypeScript" width="26px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" style="padding-right:10px;" /> -->
   <br>  
